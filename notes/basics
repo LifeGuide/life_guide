@@ -1,0 +1,5 @@
+1> Copy HTTPS url from github account
+2> move to your preferred directory using cd <path>/
+3> git clone https://github.com/LifeGuide/life_guide.git
+4> Remove unnecessary directories using rm -rf <dirname>/
+
