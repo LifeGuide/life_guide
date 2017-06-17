@@ -1,0 +1,10 @@
+GIT-source code management system
+
+how to learn better?
+Check interview questions and problems
+
+Q-1 How to revert a commit already made pushed?
+Ans: One or more commits can be reverted using '''git revert'''.
+    Subquestion: What does the git revert do?
+       It creates a new commit that effectively cancel the effect of the past commit. 
+
